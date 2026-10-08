@@ -1,0 +1,38 @@
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+*.log
+*.tmp
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+
+# Env files
+.env
+.env.local
+*.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
